@@ -12,9 +12,9 @@
 
 Заряженный Junior QA, недавно завершивший обучение и готовый к боевым задачам. Обожаю докапываться до сути багов и следить за тем, чтобы продукт становился лучше с каждым релизом. Владею популярными техниками тест-дизайна, умею работать с DevTools и тестировать API через Postman. Моя цель — обеспечивать высокое качество продукта через внимательность к деталям и структурированный подход к проверкам.
 
-- 📫 Связаться со мной: [![Gmail Badge](https://img.shields.io)](mailto:efremovegor195@gmail.com)
-  [![Telegram Badge](https://img.shields.io)](https://t.me/efremov_es)
-  [![LinkedIn Badge](https://img.shields.io)](https://www.linkedin.com)
+- 📫 Связаться со мной: [![Gmail Badge](https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:efremovegor195@gmail.com)
+  [![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/efremov_es)
+  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com)
 
 ---
 
