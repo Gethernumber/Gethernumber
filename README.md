@@ -18,19 +18,6 @@
 
 ---
 
-### 🤝 Социальные сети:
-
-  <div id="badges">
-    <a href="https://www.linkedin.com/in/" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="LinkedIn" />
-    </a>
-    <a href="https://t.me/efremov_es" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="Telegram" />
-    </a>
-  </div>
-
----
-
 ### 📁 Тестовая документация:
 
 <div>
@@ -47,7 +34,7 @@
 
 <div>
   <img src="https://d33wubrfki0l68.cloudfront.net/38b5c953a4667366685d55db55d057c86db1fc54/a0fdc/static/acae6b24d940347661ca901ea07f47c1/chrome-dev-logo-icon.png" title="DevTools" alt="DevTools" width="40" height="40"/>&nbsp
-  <img src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png" title="Postman" alt="Postman" width="40" height="40"/>&nbsp
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" title="Postman" alt="Postman" width="40" height="40"/>&nbsp
   <img src="https://static0.smartbear.co/smartbearbrand/media/images/home/soapui-icon.svg" title="SoapUI" alt="SoapUI" width="40" height="40"/>&nbsp
 </div>
 
@@ -70,7 +57,7 @@
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="mySQL" alt="mySQL" width="40" height="40"/>&nbsp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp
-  <img src="https://developer.asustor.com/uploadIcons/0020_96009_1552971827_pgadmin-icon.png" title="pgAdmin" alt="pgAdmin" width="40" height="40"/>&nbsp
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" title="pgAdmin" alt="pgAdmin" width="40" height="40"/>&nbsp
   <img src="https://img.utdstc.com/icon/6ef/84b/6ef84b6f500add73876113d43d8fefc59393a5a3b039fc9e80fc4fc0a1446d6f:200" title="DBeaver" alt="DBeaver" width="40" height="40"/>&nbsp
 </div>
 
@@ -79,8 +66,8 @@
 ### ♾️ Работа с инструментами CI/CD:
 
 <div>
-  <img src="https://cdn-icons-png.flaticon.com/512/919/919853.png" title="Docker" alt="Docker" width="40" height="40"/>&nbsp
-  <img src="https://img.icons8.com/color/1200/jenkins.jpg" title="Jenkins" alt="Jenkins" width="40" height="40"/>&nbsp
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" title="Jenkins" alt="Jenkins" width="40" height="40"/>&nbsp
 </div>
 
 ---
