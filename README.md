@@ -8,7 +8,7 @@
 
 ---
 
-### 👨‍💻 Обо мне:
+## 👨‍💻 Обо мне:
 
 Заряженный Junior QA, недавно завершивший обучение и готовый к боевым задачам. Обожаю докапываться до сути багов и следить за тем, чтобы продукт становился лучше с каждым релизом. Владею популярными техниками тест-дизайна, умею работать с DevTools и тестировать API через Postman. Моя цель — обеспечивать высокое качество продукта через внимательность к деталям и структурированный подход к проверкам.
 
@@ -39,18 +39,6 @@
 
 ---
 
-<!--### 📱 Тестирование мобильных приложений:
-
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" title="android-studio" alt="android-studio" width="40" height="40"/>&nbsp
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" title="xcode" alt="xcode" width="40" height="40"/>&nbsp
-  <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/charles_proxy_macos_bigsur_icon_190302.png" title="charles-proxy" alt="charles-proxy" width="40" height="40"/>&nbsp
-  <img src="https://www.megaleechers.com/storage/Fiddler-Everywhere-Icon.png" title="fiddler" alt="fiddler" width="40" height="40"/>&nbsp
-  <img src="https://pbs.twimg.com/profile_images/1589614420766126080/slAIVDtr_400x400.jpg" title="proxyman" alt="proxyman" width="40" height="40"/>&nbsp
-</div>
-
---- -->
-
 ### 💾 Работа с данными:
 
 <div>
@@ -77,18 +65,20 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/960px-Bash_Logo_Colored.svg.png" title="Bash" alt="Bash" width="40" height="40"/>&nbsp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp
-  
 </div>
 
 ---
 
-### 🎓 Пройденные курсы:
+## 🎓 Пройденные курсы:
 
-| Курсы                                                         |       Дата        |
-| ------------------------------------------------------------- | :---------------: |
-| stepik.org/С нуля до Junior Manual QA инженера (Сергей Яушев) | 10/2025 - 11/2025 |
-| stepik.org/Тестирование ПО с нуля. Уровень PRO (Артем Русов)  | 11/2025 - 02/2026 |
+- stepik.org/С нуля до Junior Manual QA инженера (Сергей Яушев);
+- stepik.org/Тестирование ПО с нуля. Уровень PRO (Артем Русов).
 
----
+## 📂 Тестовые артефакты, собранные в процессе прохождения курсов:
+
+- [Работа с документацией](https://github.com/Gethernumber/Test-docs) – проведение анализа требований и разработка тестовой документации;
+- [Тестирование API](https://github.com/Gethernumber/API-testing) – тестирование REST и SOAP API с использованием Postman;
+- [Тестирование БД](https://github.com/Gethernumber/DB-testing) – поиск и создание документов внутри БД, создание БД и выполнение CRUD-запросов.
+- [Git & Bash](https://github.com/Gethernumber/git-bash-training) – базовые команды СКВ и скрипты для работы с локальным и удаленным репозиториями.
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Gethernumber)
